@@ -1,0 +1,1 @@
+I am absolutely interested in learning code, so much so that I attended the JS Accelerated course this last month with James. I learned a ton and instead of writing up a word doc describing my experience, I decided it would be fitting if I created a webpage to do so!
